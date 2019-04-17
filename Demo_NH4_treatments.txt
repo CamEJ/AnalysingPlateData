@@ -1,0 +1,14 @@
+ID	Treatment
+200	Standard
+100	Standard
+50	Standard
+20	Standard
+10	Standard
+blank	blank
+B1	untreated
+B2	untreated
+B3	untreated
+C1	Dose1
+C2	Dose1
+C3	Dose1
+T0	timeZero
